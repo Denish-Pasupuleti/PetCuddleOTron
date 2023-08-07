@@ -1,7 +1,9 @@
 # PetCuddleOTron
 
 An implementation of a serverless reminder application.  
+
 The application will load from an S3 bucket and run in the browser communicating with Lambda and Step functions via an API Gateway Endpoint.  
+
 Using the application you can configure reminders for 'pet cuddles' to be sent using email.
 
 STAGE 1 : Configure Simple Email service  
