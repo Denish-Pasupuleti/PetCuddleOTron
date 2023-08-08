@@ -1,5 +1,7 @@
 # PetCuddleOTron
 
+<img width="713" alt="Architecture" src="https://github.com/Denish-Pasupuleti/PetCuddleOTron/assets/24259706/603fe8df-d0f2-4f17-9379-6887ec59d01d">  
+
 An implementation of a serverless reminder application.  
 
 The application will load from an S3 bucket and run in the browser communicating with Lambda and Step functions via an API Gateway Endpoint.  
